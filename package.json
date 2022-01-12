@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/takizawazaku/typescript-hamusan/issues"
   },
-  "homepage": "https://github.com/takizawazaku/typescript-hamusan#readme"
+  "homepage": "https://github.com/takizawazaku/typescript-hamusan#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
